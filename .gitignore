@@ -1,0 +1,10 @@
+target/
+**/*.rs.bk
+.idea
+
+# MacOS misc file
+*.DS_Store
+
+# REPL history files
+*.repl_history
+
