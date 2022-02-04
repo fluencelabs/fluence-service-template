@@ -1,5 +1,5 @@
 /*
- * Copyright 2020 Fluence Labs Limited
+ * Copyright 2021 Fluence Labs Limited
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 use marine_rs_sdk::marine;
 use marine_rs_sdk::module_manifest;
 
-use marine_rs_sdk::WasmLoggerBuilder;
 use marine_rs_sdk::MountedBinaryResult;
+use marine_rs_sdk::WasmLoggerBuilder;
 
 module_manifest!();
 
